@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "This is a test post (9/7)"
+title: "My first post"
 ---
 
 # Howdy!
 
 **Hello world**, this is my first functioning blog post!
-Yeet.
+
+Please enjoy your stay!
