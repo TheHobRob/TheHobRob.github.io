@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Part 1"
+title: "Research 30 Papers"
 ---
 
 # Welcome Back
