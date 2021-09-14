@@ -36,6 +36,6 @@ Video Games and Their Impact on Teens' Mental Health	[Link]({https://link.spring
 Video games as a complementary therapy tool in mental disorders: PlayMancer, a European multicentre study	[Link]({https://www.tandfonline.com/doi/full/10.3109/09638237.2012.664302})\
 Video games for mental health	[Link]({https://dl.acm.org/doi/fullHtml/10.1145/3328483?casa_token=UsPjQqnpg1YAAAAA:XT5EnQoFnnczFvUF47nqYwLVq32L5Xum3dmuxqZvpU0hkqkEkl04f_2Y3gQt9_BnKNRdMixkwyWb})\
 Video Games in Psychotherapy	[Link]({https://journals.sagepub.com/doi/full/10.1037/a0019439?casa_token=Moaa71tx1FIAAAAA%3A3uKLQDJy9t5U6bWpn_4Vr6gDTk46vNgWHGCA6Qsv-bDHKfJAuS1ATPr37qQSmfukw5lAJksaH9aj})\
-Youth Mental Health, Family Practice, and Knowledge Translation Video Games about Psychosis: Family Physicians' Perspectives	[Link]({https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642457/\
+Youth Mental Health, Family Practice, and Knowledge Translation Video Games about Psychosis: Family Physicians' Perspectives	[Link]({https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642457/})\
 
 Thank you!
