@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Research 30 Papers"
+title: "Research: 30 Papers"
 ---
 
 # Welcome Back
 
 30 Different Research Pages on Video Games & Mental Health:
 
-Aggressive Video Games Are Not a Risk Factor for Mental Health Problems in Youth: A Longitudinal Study	https://www.liebertpub.com/doi/full/10.1089/cyber.2020.0027
+Aggressive Video Games Are Not a Risk Factor for Mental Health Problems in Youth: A Longitudinal Study	[Link]([https://www.liebertpub.com/doi/full/10.1089/cyber.2020.0027)
 An App That Incorporates Gamification, Mini-Games, and Social Connection to Improve Men's Mental Health and Well-Being (MindMax): Participatory Design Process	https://mental.jmir.org/2018/4/e11068/
 Association between playing computer games and mental and social health among male adolescents in Iran in 2014	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815370/
 Commercial video games as a resource for mental health: A systematic literature review	https://www.tandfonline.com/doi/full/10.1080/0144929X.2021.1943524?casa_token=8n1R7MMcqzMAAAAA%3A4nm-I6bdQmHhtnLKve4_1Bu1Pwc026qcv30gDAHQR5ueivJVVzi5C763St8gRkLZyhgiwDboHsw2
